@@ -5,6 +5,7 @@
 #include<list>
 using std::vector;
 using std::list;
+//usinf nae//
 using namespace std;
 int main()
 {
